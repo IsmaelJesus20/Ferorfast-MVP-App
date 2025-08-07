@@ -1,0 +1,10 @@
+:root {
+  --primary: #2563eb;      /* Azul construcción */
+  --secondary: #f59e0b;    /* Naranja alerta */
+  --success: #10b981;      /* Verde confirmación */
+  --warning: #f59e0b;      /* Amarillo precaución */
+  --danger: #ef4444;       /* Rojo urgente */
+  --gray: #6b7280;         /* Gris neutro */
+  --light: #f9fafb;        /* Fondo claro */
+  --dark: #111827;         /* Texto oscuro */
+}
